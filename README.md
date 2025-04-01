@@ -5,6 +5,6 @@
 - 📫 How to reach me: e-mail me: nike6190@gmail.com or just catch me on Github
 
 ### Technologies, Tools: ###
-![typescript](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png)
-![javascript](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png)
-![angular](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png)
+![typescript](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png =250x250)
+![javascript](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png =250x250)
+![angular](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png =250x250)
